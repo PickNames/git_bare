@@ -1,1 +1,2 @@
 git_bare
+add gitBare after
