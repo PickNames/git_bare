@@ -1,0 +1,2 @@
+# git_bare
+submodule
